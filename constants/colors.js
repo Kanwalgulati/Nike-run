@@ -8,4 +8,5 @@ export default colors = {
   tabsColor: '#040404',
   startButton: '#fe9836',
   distanceHistoryText: '#ccc',
+  metricError: 'red',
 };

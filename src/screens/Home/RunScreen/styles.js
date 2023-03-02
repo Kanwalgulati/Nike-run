@@ -14,6 +14,7 @@ export const styles = StyleSheet.create({
     fontWeight: 'bold',
     borderBottomWidth: 2,
     marginBottom: 4,
+    alignSelf: 'center',
   },
   metricUnit: {alignSelf: 'center', fontSize: 16},
   bottomContainer: {justifyContent: 'space-between', alignItems: 'center'},
